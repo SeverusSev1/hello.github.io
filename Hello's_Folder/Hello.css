@@ -30,4 +30,9 @@ td {
 body {
 	background-image: url("https://www.freevector.com/uploads/vector/preview/30224/Lovely-Rose-Flower-Background.jpg");
 }
+h1 {
+	color:green;
+	font-family:handlee,cursive;
+	text-align:center;
+}
 

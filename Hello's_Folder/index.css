@@ -1,0 +1,33 @@
+#first {
+	color:white;
+	background-color:lightblue;
+	font-family:"handlee",cursive;
+	font-size:20pt;
+}
+p {
+	color:red;
+	font-family:"handlee",cursive;
+	font-size:15pt;
+}
+
+caption {
+	color:green;
+	font-family:handlee;
+	font-size:20pt;
+}
+td {
+	color:black;
+	background-color:white;
+	font-family:handlee , cursive;
+	font-size:17pt
+}
+#harsh {
+	color:white;
+	font-family:handlee,cursive;
+	font-size:25pt;
+	text-align:center;'
+}
+body {
+	background-image: url("https://img.freepik.com/free-photo/cute-flowers-pink-background-with-space-right_23-2147691006.jpg?size=626&ext=jpg");
+}
+
